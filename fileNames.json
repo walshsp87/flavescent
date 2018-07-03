@@ -1,0 +1,9 @@
+{
+  "xml": {
+    "get": "boiseInput1.xml",
+    "write": "temp.xml"
+  },
+  "json": {
+    "write": "temp.json"
+  }
+}
